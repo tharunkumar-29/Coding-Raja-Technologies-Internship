@@ -28,6 +28,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-If you have any questions or would like to connect, you can reach me at tharunkumarel@gmail.com
+If you have any questions or would like to connect, you can reach me at tharunkumarelangovan@gmail.com
 
 Happy coding! 🚀
